@@ -14,7 +14,7 @@ Kayıt işlemleri e-posta veya sosyal medya üzerinden yapılabilirken, kimlik d
 | 🎰 Minimum depozito | 10 USD |
 | 💳 Minimum Çekim | 20$, günlük 5.000$, haftalık 15.000$ ve aylık 45.000$ çekim limitleri |
 | 💰 Ödeme yöntemleri | Visa, Mastercard, Bitcoin, Ethereum ve çeşitli e-cüzdanlar |
-| 💷 Para Birimi | USD, EUR and TRY |
+| 💷 Para Birimi | USD, EUR, TRY |
 | 📱 Uygulama | Evet |
 | 🌐 Kayıt | e-posta veya sosyal medya |
 | 🆔 Doğrulama | pasaport |
